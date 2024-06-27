@@ -1,4 +1,4 @@
-![logo]("https://github.com/Saptak-d/Saptak-d/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png")
+![logo](https://github.com/Saptak-d/Saptak-d/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Saptak Dutta</h1>
 <h3 align="center">Passionate and recent graduate with a Bachelor's in Computer Applications (BCA), eager to embark on a fulfilling career in the IT industry. Armed with a solid foundation in programming languages, database management, and software development acquired during academic pursuits. A fast learner, adaptable, and enthusiastic about contributing to innovative IT solutions. Open to challenges and seeking opportunities to apply and enhance my skills in a dynamic professional setting. Committed to continuous learning and growth in the ever-evolving field of technology. Ready to contribute positively to a team and add value to IT projects.</h3>
 <img align="right" alt="cording" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zsYhj2_adfK-bSkljqol2A.jpeg"
