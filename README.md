@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying computer Application and science at **Institute of Engineering and management**
 
-- 🌱 I’m currently learning **html,css,javascript**
+- 🌱 Tech Enthusiast and Insight Seeker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saptak-d/tik-tak-toa-in-c](https://github.com/Saptak-d/tik-tak-toa-in-c)
 
