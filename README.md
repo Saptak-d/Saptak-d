@@ -9,7 +9,7 @@
 
 - 🌱 Tech Enthusiast and Insight Seeker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saptak-d/tik-tak-toa-in-c](https://github.com/Saptak-d/tik-tak-toa-in-c)
+- 👨‍💻 All of my projects are available at [https://github.com/Saptak-d/tik-tak-toa-in-c](https://github.com/Saptak-d?tab=repositories)
 
 - 📫 How to reach me **duttsaptak79@gmail.com**
 
