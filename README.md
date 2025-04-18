@@ -4,9 +4,7 @@
 
 ![logo](https://github.com/Saptak-d/Saptak-d/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
 
-**Summary:**
-I am an aspiring software developer with a deep passion for coding and building innovative solutions. I am currently focused on full-stack web development and have experience working with various technologies such as HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, and C++. I’m always excited to learn new technologies and explore creative problem-solving techniques.
-
+I am a Full Stack Developer with a passion for creating dynamic, scalable web applications. Experienced in frontend technologies like HTML, CSS, JavaScript, and React, as well as backend development with Node.js, Express, and databases like MongoDB and MySQL. I’m always eager to learn new technologies and build high-quality software solutions that solve real-world problems.
 ---
 
 ### 🔭 About Me:
