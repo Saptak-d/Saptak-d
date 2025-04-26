@@ -70,8 +70,5 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptak-d&show_icons=true&locale=en&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="saptak-d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptak-d&background=00000000&ring=00F7F7&fire=00F7F7&currStreakNum=00F7F7" alt="saptak-d" /></p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saptak-d.Saptak-d" alt="Visitor Badge" />
-</p>
+
