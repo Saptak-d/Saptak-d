@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7F7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptak+Dutta;Welcome+to+my+profile!;Passionate+about+coding+and+tech" alt="Animated Text" />
+  <img src="[https://readme-typing-svg.demolab.com](https://media.licdn.com/dms/image/v2/D4D16AQF985ImonWlIg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736402007347?e=1758758400&v=beta&t=DnJChxJHm7p10W5ROdPQAKjnI6xXBviXrP33AgLAorc)?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7F7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptak+Dutta;Welcome+to+my+profile!;Passionate+about+coding+and+tech" alt="Animated Text" />
 </p>
 
 ![logo](https://github.com/Saptak-d/Saptak-d/blob/main/Black%20Technology%20LinkedIn%20Banner%20(1).png)
