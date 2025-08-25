@@ -70,6 +70,6 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saptak-d&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak-d&layout=compact&hide_border=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="Top Languages" style="display:inline-block; margin-right:10px;" />
-  <img src="https://streak-stats.demolab.com?user=Saptak-d&theme=tokyonight&hide_border=true" style="display:inline-block;" />
+
 </div>
 
