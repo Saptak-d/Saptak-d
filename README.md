@@ -77,3 +77,23 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
   <img src="https://github-readme-stats.vercel.app/api?username=Saptak-d&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak-d&layout=compact&hide_border=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="Top Languages" style="display:inline-block; margin-right:10px;" />
 </div>
+---
+
+### 💼 Latest Freelance Project: Rajsv Finance India
+
+**Project Description:**  
+Rajsv Finance India is a modern financial services website designed to provide users with seamless access to investment, loan, and advisory services. Built with **React**, **Node.js**, **Express**, and **MongoDB**, the website features a responsive UI, secure backend, and smooth navigation. The project demonstrates full-stack development skills, including API integration, dynamic content management, and cloud deployment.  
+
+**Live Website:** [https://rajsv.com/](https://rajsv.com/)
+
+---
+
+<p align="center">
+  <a href="https://rajsv.com/" target="_blank">
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/rajsv1.jpeg" alt="Rajsv Screenshot 1" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/rajsv2.jpeg" alt="Rajsv Screenshot 2" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/rajsv3.jpeg" alt="Rajsv Screenshot 3" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/rajsv4.jpeg" alt="Rajsv Screenshot 4" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+  </a>
+</p>
+
