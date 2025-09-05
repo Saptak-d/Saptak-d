@@ -90,10 +90,10 @@ Rajsv Finance India is a modern financial services website designed to provide u
 
 <p align="center">
   <a href="https://rajsv.com/" target="_blank">
-    <img src="[https://github.com/Saptak-d/Saptak-d/blob/main/rajsv1.jpeg](https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011236.png)" alt="Rajsv Screenshot 1" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
-    <img src="[https://github.com/Saptak-d/Saptak-d/blob/main/rajsv2.jpeg](https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011258.png)" alt="Rajsv Screenshot 2" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
-    <img src="[https://github.com/Saptak-d/Saptak-d/blob/main/rajsv3.jpeg](https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011320.png)" alt="Rajsv Screenshot 3" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
-    <img src="[https://github.com/Saptak-d/Saptak-d/blob/main/rajsv4.jpeg](https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011356.png)" alt="Rajsv Screenshot 4" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011236.png" alt="Rajsv Screenshot 1" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011258.png" alt="Rajsv Screenshot 2" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011320.png" alt="Rajsv Screenshot 3" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
+    <img src="https://github.com/Saptak-d/Saptak-d/blob/main/Screenshot%202025-09-06%20011356.png" alt="Rajsv Screenshot 4" width="45%" height="250px" style="object-fit:cover; margin:5px; border-radius:10px;"/>
   </a>
 </p>
 
