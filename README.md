@@ -22,7 +22,7 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
   <a href="https://linkedin.com/in/saptak-dutta" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank">
+  <a href="https://x.com/D_Saptak" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
@@ -61,6 +61,12 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Cloud" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -70,6 +76,4 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saptak-d&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak-d&layout=compact&hide_border=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="Top Languages" style="display:inline-block; margin-right:10px;" />
-
 </div>
-
