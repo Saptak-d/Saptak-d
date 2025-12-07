@@ -13,7 +13,7 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 ### 🔭 About Me:
 - 🌱 Currently studying **Computer Applications** at the **Institute of Engineering and Management**
 - 👨‍💻 All of my projects are available at [GitHub Projects](https://github.com/Saptak-d?tab=repositories)
-- 📫 Reach me at: **duttsaptak79@gmail.com**
+- 📫 Reach me at: **saptakdutta95@gmail.com**
 
 ---
 
@@ -71,13 +71,20 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 
 ---
 
-### 📊 GitHub Stats (All in One Line):
+### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptak-d&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="GitHub Stats" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak-d&layout=compact&hide_border=true&bg_color=00000000&text_color=00F7F7&border_color=00F7F7" alt="Top Languages" style="display:inline-block; margin-right:10px;" />
-</div>
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saptak-d&theme=radical" alt="GitHub Profile Summary" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saptak-d&theme=radical" alt="GitHub Stats" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saptak-d&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak-d&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" width="50%" />
+</p>
 
 ### 💼 Latest Freelance Project: Rajsv Finance India
 
