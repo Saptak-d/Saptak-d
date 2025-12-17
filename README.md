@@ -1,9 +1,10 @@
-# <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7F7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptak+Dutta;Welcome+to+my+profile!;Passionate+about+coding+and+tech" alt="Animated Text" />
+# 
+<p align="center">
+  <img src="https://github.com/Saptak-d/Saptak-d/blob/main/1736402007347.jpeg" alt="logo" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Saptak-d/Saptak-d/blob/main/1736402007347.jpeg" alt="logo" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7F7&background=00000000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saptak+Dutta;Welcome+to+my+profile!;Passionate+about+coding+and+tech" alt="Animated Text" />
 </p>
 
 I am a Full Stack Developer with a passion for creating dynamic, scalable web applications. Experienced in frontend technologies like HTML, CSS, JavaScript, and React, as well as backend development with Node.js, Express, and databases like MongoDB and MySQL. I’m always eager to learn new technologies and build high-quality software solutions that solve real-world problems.
