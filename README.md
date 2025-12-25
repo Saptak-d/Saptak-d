@@ -83,9 +83,13 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saptak-d&theme=radical" alt="Top Languages" width="40%" />
 </p>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak-d&theme=radical&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=Saptak-d&theme=radical&hide_border=true&background=0D1117" />
 </p>
+
+
 
 ### 💼 Latest Freelance Project: Rajsv Finance India
 
