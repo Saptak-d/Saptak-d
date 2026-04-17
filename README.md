@@ -21,12 +21,14 @@ I am a Full Stack Developer with a passion for creating dynamic, scalable web ap
 
 ### 🚀 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/saptak-dutta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+
+  <a href="https://www.linkedin.com/in/saptak-dutta-11a7271b4/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin:12px"/>
+  </a><a href="https://x.com/D_Saptak" target="_blank">
+    <!-- White X logo -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" style="margin:12px; filter: invert(1);"/>
   </a>
-  <a href="https://x.com/D_Saptak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
